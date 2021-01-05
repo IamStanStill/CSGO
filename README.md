@@ -8,5 +8,5 @@ This file includes all the important settings that you use and wish to keep cons
 
 ### Training config
 
-Execute this by typeing `exec training` in the console. <br />
+Execute this by typing `exec training` in the console. <br />
 Use this config file when practicing on an offline server.

@@ -1,4 +1,4 @@
-# CSGO
+# CSGO Configs
 The above listed files are useful configs used for CS:GO.
 
 ### AutoExec config
